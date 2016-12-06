@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: bn_BD\n"
+
+#: 404.php:4
+msgid "Sorry, but the page you were trying to view does not exist."
+msgstr "দুঃখিত, কিন্তু যে পৃষ্ঠার খোঁজ করছেন তার অস্তিত্ব নেই।"
+
+#: base.php:14
+msgid ""
+"You are using an <strong>outdated</strong> browser. Please <a href=\"http://"
+"browsehappy.com/\">upgrade your browser</a> to improve your experience."
+msgstr ""
+"আপনি অনেক পুরাতন একটি ব্রাউজার ব্যবহার করছেন। আপনার ভূয়োদর্শনের মানোন্নয়নের জন্য "
+"দয়া করে আপনার <a href=\"http://browsehappy.com/\">ব্রাউজার আপডেট করুন</a>।"
+
+#: functions.php:22
+msgid "Error locating %s for inclusion"
+msgstr "ত্রুটি, %s বাদ দেবার জন্য খুঁজে পাওয়া যায় নি "
+
+#: index.php:5 search.php:5
+msgid "Sorry, no results were found."
+msgstr "দুঃখিত, কোন ফলাফল খুঁজে পাওয়া যায় নি।"
+
+#: lib/extras.php:31
+msgid "Continued"
+msgstr "চলমান"
+
+#: lib/setup.php:30
+msgid "Primary Navigation"
+msgstr "প্রাথমিক নেভিগেশন"
+
+#: lib/setup.php:57
+msgid "Primary"
+msgstr "প্রাথমিক"
+
+#: lib/setup.php:66
+msgid "Footer"
+msgstr "পৃষ্ঠাপদ"
+
+#: lib/titles.php:13
+msgid "Latest Posts"
+msgstr "সাম্প্রতিক ভুক্তি"
+
+#: lib/titles.php:18
+msgid "Search Results for %s"
+msgstr "অনুসন্ধানের ফলাফল: %s"
+
+#: lib/titles.php:20
+msgid "Not Found"
+msgstr "খুঁজে পাওয়া যায়নি"
+
+#: templates/comments.php:9
+msgctxt "comments title"
+msgid "One response to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s responses to &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; এর পক্ষে একটি প্রতিক্রিয়া"
+msgstr[1] "&ldquo;%2$s&rdquo; এর পক্ষে %1$গুলো প্রতিক্রিয়া"
+
+#: templates/comments.php:19
+msgid "&larr; Older comments"
+msgstr "&larr; পূর্ববর্তী মন্তব্যসমূহ"
+
+#: templates/comments.php:22
+msgid "Newer comments &rarr;"
+msgstr "পরবর্তী মন্তব্যসমূহ &rarr;"
+
+#: templates/comments.php:31
+msgid "Comments are closed."
+msgstr "মন্তব্যকরণ বন্ধ রয়েছে।"
+
+#: templates/content-page.php:2 templates/content-single.php:11
+msgid "Pages:"
+msgstr "পৃষ্ঠাসমূহঃ"
+
+#: templates/entry-meta.php:2
+msgid "By"
+msgstr "দ্বারা"
+
+#. Theme Name of the plugin/theme
+msgid "Sage Starter Theme"
+msgstr "সেজ একটি স্টার্টার থিম"
+
+#. Theme URI of the plugin/theme
+msgid "https://roots.io/sage/"
+msgstr "https://roots.io/sage/"
+
+#. Description of the plugin/theme
+msgid ""
+"Sage is a WordPress starter theme. <a href=\"https://github.com/roots/sage"
+"\">Contribute on GitHub</a>"
+msgstr ""
+"সেজ ওয়ার্ডপ্রেস এর একটি স্টার্টার থিম. <a href=\"https://github.com/roots/sage"
+"\">GitHub এ আপনার অবদান সমর্পন করুন</a>"
+
+#. Author of the plugin/theme
+msgid "Roots"
+msgstr "শিকড়"
+
+#. Author URI of the plugin/theme
+msgid "https://roots.io/"
+msgstr "https://roots.io/"
+
+#. Template Name of the plugin/theme
+msgid "Custom Template"
+msgstr "কাস্টম টেমপ্লেট"
